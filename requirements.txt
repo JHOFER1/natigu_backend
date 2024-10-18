@@ -1,0 +1,4 @@
+Flask
+Flask-SQLAlchemy
+cx_Oracle
+python-dotenv
